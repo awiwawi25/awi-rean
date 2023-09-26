@@ -1,0 +1,100 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: pink;
+}
+
+.container-navbar1 {
+    background-color: palevioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 9vh;
+    list-style: none;
+    padding: 0rem;
+}
+
+.container-navbar2 {
+    background-color: palevioletred;
+    background-size: 20cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 9vh;
+    list-style: none;
+    padding: 0rem;
+}
+.container-h3galeri {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70%;
+    font-size: medium;
+}
+
+.container-konten {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-konten-basa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-konten-gambar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-komentar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.img-konten {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.ul-container {
+    display: flex;
+    justify-content: center;
+}
+
+.container-footer {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger ;
+}
+
+.container-kalimat {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-galeri {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
